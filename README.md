@@ -65,7 +65,7 @@
 [[view]](https://www.osti.gov/biblio/1478744-workshop-report-basic-research-needs-scientific-machine-learning-core-technologies-artificial-intelligence) 2019. DOE. _Basic Research Needs for Scientific ML: Core Technologies for AI_   
 [[view]](https://royalsociety.org/topics-policy/projects/machine-learning/) 2017. RS. _Machine Learning: the power and promise of computers that learn by example_  
 
-[[view]](https://arxiv.org/abs/2012.07938). 2020. Hennigh. _NVIDIA SimNet: an AI-accelerated multi-physics simulation framework_ [[NVIDIA Modulus]](https://developer.nvidia.com/modulus)  
+[[view]](https://arxiv.org/abs/2012.07938) 2020. Hennigh. _NVIDIA SimNet: an AI-accelerated multi-physics simulation framework_ [[NVIDIA Modulus]](https://developer.nvidia.com/modulus)  
 
 **_What are Surrogate Models ?_**  
 
