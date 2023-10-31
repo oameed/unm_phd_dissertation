@@ -53,8 +53,6 @@
 [[view]](https://ieeexplore.ieee.org/abstract/document/870037) 2000. Lagaris. ANN Methods for BVPs with Irregular Boundaries  
 [[view]](https://ieeexplore.ieee.org/abstract/document/712178) 1998. Lagaris. ANNs for Solving ODEs and PDEs  
 
-[[view]](https://developer.nvidia.com/modulus) NVIDIA. _NVIDIA Modulus (SimNet)_ [[SimNet on arxiv]](https://arxiv.org/abs/2012.07938)  
-
 **_Use of ANNs as Optimization Tools ?!_**
 
 [[view]](https://ieeexplore.ieee.org/document/8072529) 2017. Yao. Machine Learning Based Method of Moments (ML-MoM)  
@@ -63,22 +61,20 @@
 
 ## Useful
 
-**_What are Surrogate Models?_**  
-
-[[view]](https://link.springer.com/book/10.1007/978-981-15-0731-1) 2020. Jiang. Surrogate Model-Based Engineering Design and Optimization  
-[[view]](https://www.worldscientific.com/worldscibooks/10.1142/q0043#t=aboutBook) 2016. Koziel. Multi-Objective Design of Antennas Using Surrogate Models  
-[[view]](https://link.springer.com/book/10.1007/978-1-4614-7551-4) 2013. Koziel. Surrogate-Based Modeling and Optimization  
-[[view]](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470770801) 2008. Forrester. Engineering Design via Surrogate Modelling  
-
-## Additional References for the Manuscript
-
-**_Chapter 1: Introduction_**
+[[view]](https://developer.nvidia.com/modulus) NVIDIA. _NVIDIA Modulus (SimNet)_ [[SimNet on arxiv]](https://arxiv.org/abs/2012.07938)  
 
 [[view]](https://www.anl.gov/ai-for-science-report) 2020. ANL. _AI for Science_  
-[[view]](https://www.osti.gov/biblio/1478744-workshop-report-basic-research-needs-scientific-machine-learning-core-technologies-artificial-intelligence) 2019. DOE. _Basic Research Needs for Scientific Machine Learning: Core Technologies for Artificial Intelligence_   
+[[view]](https://www.osti.gov/biblio/1478744-workshop-report-basic-research-needs-scientific-machine-learning-core-technologies-artificial-intelligence) 2019. DOE. _Basic Research Needs for Scientific ML: Core Technologies for AI_   
 [[view]](https://royalsociety.org/topics-policy/projects/machine-learning/) 2017. RS. _Machine Learning: the power and promise of computers that learn by example_  
-[[view]](https://www.nap.edu/catalog/24699/the-fourth-industrial-revolution-proceedings-of-a-workshop-in-brief) 2017. NASEM. _The Fourth Industrial Revolution: Proceedings of a Workshop–in Brief_  
-[[view]](https://www.nsf.gov/pubs/2002/nsf02176/) 2001. NSF. _Computation As a Tool for Discovery in Physics_  
+
+**_What are Surrogate Models ?_**  
+
+[[view]](https://link.springer.com/book/10.1007/978-981-15-0731-1) 2020. Jiang. _Surrogate Model-Based Engineering Design and Optimization_  
+[[view]](https://www.worldscientific.com/worldscibooks/10.1142/q0043#t=aboutBook) 2016. Koziel. _Multi-Objective Design of Antennas Using Surrogate Models_  
+[[view]](https://link.springer.com/book/10.1007/978-1-4614-7551-4) 2013. Koziel. _Surrogate-Based Modeling and Optimization_  
+[[view]](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470770801) 2008. Forrester. _Engineering Design via Surrogate Modelling_  
+
+## Additional References for the Manuscript
 
 **_Chapter 1: What is Artificial Intelligance (AI) ?_**
 
