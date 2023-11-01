@@ -41,23 +41,23 @@
 [[view]](https://arxiv.org/abs/2010.08895) 2020. Li. _Fourier Neural Operator for Parametric PDEs_  
 [[view]](https://arxiv.org/abs/2003.03485) 2020. Li. _Neural Operator: Graph Kernel Network for PDEs_  
 
-**_PINNs_**
+**_Use of ANNs as Optimization Tools ?!: The PINNs_**
 
-[[view]](https://link.springer.com/article/10.1007/s10409-021-01148-1) 2021. Cai. PINNs for fluid mechanics A review  
-[[view]](https://www.nature.com/articles/s42254-021-00314-5) 2021. Karniadakis. Physics informed machine learning  
-[[view]](https://arxiv.org/abs/2109.05237) 2021. Thuerey. Physics-based Deep Learning  
-[[view]](https://www.sciencedirect.com/science/article/pii/S0021999118307125) 2019. Raissi. Physics-informed neural networks  
-[[view]](https://www.jmlr.org/papers/volume19/18-046/18-046.pdf?ref=https://githubhelp.com) 2018. Raissi. Deep Learning of Nonlinear Partial Differential Equations  
-[[view]](https://arxiv.org/abs/1711.10561) 2017. Raissi. Physics Informed Deep Learning - Part I  
-[[view]](https://arxiv.org/abs/1711.10566) 2017. Raissi. Physics Informed Deep Learning - Part II   
-[[view]](https://ieeexplore.ieee.org/abstract/document/870037) 2000. Lagaris. ANN Methods for BVPs with Irregular Boundaries  
-[[view]](https://ieeexplore.ieee.org/abstract/document/712178) 1998. Lagaris. ANNs for Solving ODEs and PDEs  
+[[view]](https://link.springer.com/article/10.1007/s10409-021-01148-1) 2021. Cai. _PINNs for fluid mechanics A review_  
+[[view]](https://www.nature.com/articles/s42254-021-00314-5) 2021. Karniadakis. _Physics informed machine learning_  
+[[view]](https://arxiv.org/abs/2109.05237) 2021. Thuerey. _Physics-based Deep Learning_  
+[[view]](https://www.sciencedirect.com/science/article/pii/S0021999118307125) 2019. Raissi. _Physics-informed neural networks_  
+[[view]](https://www.jmlr.org/papers/volume19/18-046/18-046.pdf?ref=https://githubhelp.com) 2018. Raissi. _Deep Learning of Nonlinear Partial Differential Equations_  
+[[view]](https://arxiv.org/abs/1711.10561) 2017. Raissi. _Physics Informed Deep Learning - Part I_  
+[[view]](https://arxiv.org/abs/1711.10566) 2017. Raissi. _Physics Informed Deep Learning - Part II_   
+[[view]](https://ieeexplore.ieee.org/abstract/document/870037) 2000. Lagaris. _ANN Methods for BVPs with Irregular Boundaries_  
+[[view]](https://ieeexplore.ieee.org/abstract/document/712178) 1998. Lagaris. _ANNs for Solving ODEs and PDEs_  
 
 **_Use of ANNs as Optimization Tools ?!_**
 
-[[view]](https://ieeexplore.ieee.org/document/8072529) 2017. Yao. Machine Learning Based Method of Moments (ML-MoM)  
-[[view]](https://ieeexplore.ieee.org/abstract/document/1402508) 2005. Mishra. NFDTD Concept  
-[[view]](https://ieeexplore.ieee.org/abstract/document/1528518) 2005. Ramuhalli. Finite-Element ANNs for Solving Differential Equations  
+[[view]](https://ieeexplore.ieee.org/document/8072529) 2017. Yao. _Machine Learning Based Method of Moments (ML-MoM)_  
+[[view]](https://ieeexplore.ieee.org/abstract/document/1402508) 2005. Mishra. _NFDTD Concept_  
+[[view]](https://ieeexplore.ieee.org/abstract/document/1528518) 2005. Ramuhalli. _Finite-Element ANNs for Solving Differential Equations_  
 
 ## Useful
 
