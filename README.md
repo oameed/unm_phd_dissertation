@@ -41,7 +41,7 @@
 [[view]](https://arxiv.org/abs/2010.08895) 2020. Li. _Fourier Neural Operator for Parametric PDEs_  
 [[view]](https://arxiv.org/abs/2003.03485) 2020. Li. _Neural Operator: Graph Kernel Network for PDEs_  
 
-**_Use of ANNs as Optimization Tools ?!: The PINNs_**
+**_Use of ANNs as Optimization Tools ?! : The PINNs_**
 
 [[view]](https://link.springer.com/article/10.1007/s10409-021-01148-1) 2021. Cai. _PINNs for fluid mechanics A review_  
 [[view]](https://www.nature.com/articles/s42254-021-00314-5) 2021. Karniadakis. _Physics informed machine learning_  
