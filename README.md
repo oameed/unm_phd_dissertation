@@ -11,26 +11,20 @@
 
 ## Insightful Works from CV/NLP
 
-**_Video Predciction_**
-
 [[view]](https://upcommons.upc.edu/bitstream/handle/2117/118121/126510.pdf) 2018. Castello. _A Comprehensive Survey on Deep Future Frame Video Prediction_  
 [[view]](https://ieeexplore.ieee.org/abstract/document/8099802) 2017. _Generating the Future with Adversarial Transformers_  
 [[view]](https://arxiv.org/abs/1703.00247) 2017. Ehrhardt. _Learning A Physical Long-term Predictor_  
-[[view]](https://arxiv.org/abs/1511.06309) 2016. Patraucean. _Spatio-temporal video autoencoder with differentiable memory_  
-[[view]](https://arxiv.org/abs/1608.07724) 2016. Zhou. _Learning Temporal Transformations From Time-Lapse Videos_  
-[[view]](https://arxiv.org/abs/1502.04681) 2015. Srivastava. _Unsupervised learning of video representations using lstms_  
-[[view]](https://arxiv.org/abs/1508.00271) 2015. Fragkiadaki. _Recurrent Network Models for Human Dynamics_   
-[[view]](https://arxiv.org/abs/1411.4555) 2014. Vinyals. _Show and Tell: A Neural Image Caption Generator_  
-[[view]](https://arxiv.org/abs/1409.3215) 2014. Sutskever. _Sequence to sequence learning with neural networks_  
-[[view]](https://arxiv.org/abs/1308.0850) 2013. Graves. _Generating Sequences With Recurrent Neural Networks_  
-
-**_Visual Attention_**  
-
-[[view]](https://arxiv.org/abs/1511.05234) 2016. Xu. _Ask, Attend and Answer_  
 [[view]](https://arxiv.org/abs/1609.02612) 2016. Vondrick. _Generating videos with scene dynamics_  
+[[view]](https://arxiv.org/abs/1608.07724) 2016. Zhou. _Learning Temporal Transformations From Time-Lapse Videos_  
+[[view]](https://arxiv.org/abs/1511.06309) 2015. Patraucean. _Spatio-temporal video autoencoder with differentiable memory_  
+[[view]](https://arxiv.org/abs/1511.05234) 2015. Xu. _Ask, Attend and Answer_  
+[[view]](https://arxiv.org/abs/1508.00271) 2015. Fragkiadaki. _Recurrent Network Models for Human Dynamics_   
 [[view]](https://arxiv.org/abs/1503.08895) 2015. Sukhbaatar. _End-To-End Memory Networks_  
+[[view]](https://arxiv.org/abs/1502.04681) 2015. Srivastava. _Unsupervised learning of video representations using lstms_  
 [[view]](https://arxiv.org/abs/1502.03044) 2015. Xu. _Show, Attend and Tell: Neural Image Caption Generation with Visual Attention_  
 [[view]](https://arxiv.org/abs/1412.7755) 2014. Ba. _Multiple Object Recognition with Visual Attention_  
+[[view]](https://arxiv.org/abs/1411.4555) 2014. Vinyals. _Show and Tell: A Neural Image Caption Generator_  
+[[view]](https://arxiv.org/abs/1308.0850) 2013. Graves. _Generating Sequences With Recurrent Neural Networks_  
 
 ## Other Approaches
 
@@ -92,7 +86,6 @@
     [[view]](https://arxiv.org/abs/1803.04189) 2018. NVIDIA. _Noise2Noise: Learning Image Restoration without Clean Data_ [[YouTube]](https://www.youtube.com/watch?v=pp7HdI0-MIo) [[NVIDIA Research]](https://research.nvidia.com/publication/2018-07_Noise2Noise%3A-Learning-Image)   
   * **_Image Transcription: Image Captioning and Scene Understanding_**  
     [[view]](https://arxiv.org/abs/1502.03044) 2015. Xu. _Show, Attend and Tell: Neural Image Caption Generation with Visual Attention_  
-    [[view]](https://arxiv.org/abs/1411.4555) 2014. Vinyals et.al. _Show and Tell: A Neural Image Caption Generator_  
 
 **_Chapter 3: Emulation of the FDTD: RNNs_**
 
