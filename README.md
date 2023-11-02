@@ -12,7 +12,6 @@
 
 ## Insightful Works from CV/NLP
 
-[[view]](https://upcommons.upc.edu/handle/2117/118121) 2018. Castello. _A Comprehensive Survey on Deep Future Frame Video Prediction_  
 [[view]](https://ieeexplore.ieee.org/abstract/document/8099802) 2017. _Generating the Future with Adversarial Transformers_  
 [[view]](https://arxiv.org/abs/1609.02612) 2016. Vondrick. _Generating videos with scene dynamics_  
 [[view]](https://arxiv.org/abs/1608.07724) 2016. Zhou. _Learning Temporal Transformations From Time-Lapse Videos_  
