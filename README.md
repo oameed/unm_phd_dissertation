@@ -90,7 +90,7 @@
     [[view]](https://arxiv.org/abs/1802.05518) 2018. Sindel et. al. _Learning from a Handful Volumes: MRI Resolution Enhancement with Volumetric Super-Resolution Forests_  
   * **_Image Denoising: Image Restoration and Inpainting_**  
     [[view]](https://arxiv.org/abs/1803.04189) 2018. NVIDIA. _Noise2Noise: Learning Image Restoration without Clean Data_ [[YouTube]](https://www.youtube.com/watch?v=pp7HdI0-MIo) [[NVIDIA Research]](https://research.nvidia.com/publication/2018-07_Noise2Noise%3A-Learning-Image)   
-  * **_Image Transcription: Image Captioning and Scene Understanding_**
+  * **_Image Transcription: Image Captioning and Scene Understanding_**  
     [[view]](https://arxiv.org/abs/1502.03044) 2015. Xu. _Show, Attend and Tell: Neural Image Caption Generation with Visual Attention_  
     [[view]](https://arxiv.org/abs/1411.4555) 2014. Vinyals et.al. _Show and Tell: A Neural Image Caption Generator_  
 
