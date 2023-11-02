@@ -12,7 +12,7 @@
 
 ## Insightful Works from CV/NLP
 
-[[view]](https://ieeexplore.ieee.org/abstract/document/8099802) 2017. _Generating the Future with Adversarial Transformers_  
+[[view]](https://ieeexplore.ieee.org/abstract/document/8099802) 2017. Vondrick. _Generating the Future with Adversarial Transformers_  
 [[view]](https://arxiv.org/abs/1609.02612) 2016. Vondrick. _Generating videos with scene dynamics_  
 [[view]](https://arxiv.org/abs/1608.07724) 2016. Zhou. _Learning Temporal Transformations From Time-Lapse Videos_  
 [[view]](https://arxiv.org/abs/1511.06309) 2015. Patraucean. _Spatio-temporal video autoencoder with differentiable memory_  
