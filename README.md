@@ -6,6 +6,7 @@
 [[view]](https://arc.aiaa.org/doi/10.2514/6.2020-2261) 2020. Achour. _Development of a Conditional GAN for Airfoil Shape Optimization_  
 [[view]](https://arxiv.org/abs/1903.00033) 2019. Mohan. _Compressed Convolutional LSTM_  
 [[view]](https://arxiv.org/abs/1812.01609) 2018. Sorteberg. _Approximating the solution to wave propagation using DNNs_  
+[[view]](https://ieeexplore.ieee.org/document/8608745) 2018. Yao. _ML Based ANN Solving Methods for the FDTD Method_  
 [[view]](https://arxiv.org/abs/1705.09036) 2017. Hennigh. _Lat-Net: Compressing Lattice Boltzmann Flow Simulations using DNNs_ [[GitHub]](https://github.com/loliverhennigh/Phy-Net)  
 [[view]](https://arxiv.org/abs/1703.00247) 2017. Ehrhardt. _Learning A Physical Long-term Predictor_  
 [[view]](https://arxiv.org/abs/1607.03597) 2016. Tompson. _Accelerating Eulerian Fluid Simulation With CNNs_ [[official]](https://cims.nyu.edu/~schlacht/CNNFluids.htm) [[other]](https://github.com/LiaoMochen/Google-FluidNet-Reproduce-Python)  
@@ -85,8 +86,4 @@
     [[view]](https://arxiv.org/abs/1803.04189) 2018. NVIDIA. _Noise2Noise: Learning Image Restoration without Clean Data_ [[YouTube]](https://www.youtube.com/watch?v=pp7HdI0-MIo) [[NVIDIA Research]](https://research.nvidia.com/publication/2018-07_Noise2Noise%3A-Learning-Image)   
   * **_Image Transcription: Image Captioning and Scene Understanding_**  
     [[view]](https://arxiv.org/abs/1502.03044) 2015. Xu. _Show, Attend and Tell: Neural Image Caption Generation with Visual Attention_  
-
-**_Chapter 3: Emulation of the FDTD: RNNs_**
-
-[[view]](https://ieeexplore.ieee.org/document/8608745) 2018. Yao. Machine Learning Based Neural Network Solving Methods for the FDTD Method  
 
