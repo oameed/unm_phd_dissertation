@@ -7,13 +7,13 @@
 [[view]](https://arxiv.org/abs/1903.00033) 2019. Mohan. _Compressed Convolutional LSTM_  
 [[view]](https://arxiv.org/abs/1812.01609) 2018. Sorteberg. _Approximating the solution to wave propagation using DNNs_  
 [[view]](https://arxiv.org/abs/1705.09036) 2017. Hennigh. _Lat-Net: Compressing Lattice Boltzmann Flow Simulations using DNNs_ [[GitHub]](https://github.com/loliverhennigh/Phy-Net)  
+[[view]](https://arxiv.org/abs/1703.00247) 2017. Ehrhardt. _Learning A Physical Long-term Predictor_  
 [[view]](https://arxiv.org/abs/1607.03597) 2016. Tompson. _Accelerating Eulerian Fluid Simulation With CNNs_ [[official]](https://cims.nyu.edu/~schlacht/CNNFluids.htm) [[other]](https://github.com/LiaoMochen/Google-FluidNet-Reproduce-Python)  
 
 ## Insightful Works from CV/NLP
 
 [[view]](https://upcommons.upc.edu/bitstream/handle/2117/118121/126510.pdf) 2018. Castello. _A Comprehensive Survey on Deep Future Frame Video Prediction_  
 [[view]](https://ieeexplore.ieee.org/abstract/document/8099802) 2017. _Generating the Future with Adversarial Transformers_  
-[[view]](https://arxiv.org/abs/1703.00247) 2017. Ehrhardt. _Learning A Physical Long-term Predictor_  
 [[view]](https://arxiv.org/abs/1609.02612) 2016. Vondrick. _Generating videos with scene dynamics_  
 [[view]](https://arxiv.org/abs/1608.07724) 2016. Zhou. _Learning Temporal Transformations From Time-Lapse Videos_  
 [[view]](https://arxiv.org/abs/1511.06309) 2015. Patraucean. _Spatio-temporal video autoencoder with differentiable memory_  
