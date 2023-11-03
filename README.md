@@ -9,11 +9,10 @@
 [[view]](https://ieeexplore.ieee.org/document/8608745) 2018. Yao. _ML Based ANN Solving Methods for the FDTD Method_  
 [[view]](https://arxiv.org/abs/1705.09036) 2017. Hennigh. _Lat-Net: Compressing Lattice Boltzmann Flow Simulations using DNNs_ [[GitHub]](https://github.com/loliverhennigh/Phy-Net)  
 [[view]](https://arxiv.org/abs/1703.00247) 2017. Ehrhardt. _Learning A Physical Long-term Predictor_  
-[[view]](https://arxiv.org/abs/1607.03597) 2016. Tompson. _Accelerating Eulerian Fluid Simulation With CNNs_ [[official]](https://cims.nyu.edu/~schlacht/CNNFluids.htm) [[other]](https://github.com/LiaoMochen/Google-FluidNet-Reproduce-Python)  
+[[view]](https://arxiv.org/abs/1607.03597) 2016. Tompson. _Accelerating Eulerian Fluid Simulation With CNNs_ [[official]](https://cims.nyu.edu/~schlacht/CNNFluids.htm)  
 
 ## Insightful Works from CV/NLP
 
-[[view]](https://ieeexplore.ieee.org/abstract/document/8099802) 2017. Vondrick. _Generating the Future with Adversarial Transformers_  
 [[view]](https://arxiv.org/abs/1609.02612) 2016. Vondrick. _Generating videos with scene dynamics_  
 [[view]](https://arxiv.org/abs/1608.07724) 2016. Zhou. _Learning Temporal Transformations From Time-Lapse Videos_  
 [[view]](https://arxiv.org/abs/1511.06309) 2015. Patraucean. _Spatio-temporal video autoencoder with differentiable memory_  
@@ -23,6 +22,7 @@
 [[view]](https://arxiv.org/abs/1502.04681) 2015. Srivastava. _Unsupervised learning of video representations using lstms_  
 [[view]](https://arxiv.org/abs/1502.03044) 2015. Xu. _Show, Attend and Tell: Neural Image Caption Generation with Visual Attention_  
 [[view]](https://arxiv.org/abs/1412.7755) 2014. Ba. _Multiple Object Recognition with Visual Attention_  
+[[view]](https://arxiv.org/abs/1412.6604) 2014. Ranzato. _Video (language) modeling: a baseline for generative models of natural videos_  
 [[view]](https://arxiv.org/abs/1411.4555) 2014. Vinyals. _Show and Tell: A Neural Image Caption Generator_  
 [[view]](https://arxiv.org/abs/1308.0850) 2013. Graves. _Generating Sequences With Recurrent Neural Networks_  
 
