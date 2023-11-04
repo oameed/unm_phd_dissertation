@@ -67,14 +67,14 @@
 
 ## Useful
 
+[[view]](https://aiindex.stanford.edu/) Stanford University. _AI Index Report_  
+
 [[view]](https://www.anl.gov/ai-for-science-report) 2020. ANL. _AI for Science_  
 [[view]](https://www.osti.gov/biblio/1478744-workshop-report-basic-research-needs-scientific-machine-learning-core-technologies-artificial-intelligence) 2019. DOE. _Basic Research Needs for Scientific ML: Core Technologies for AI_   
 [[view]](https://royalsociety.org/topics-policy/projects/machine-learning/) 2017. RS. _Machine Learning: the power and promise of computers that learn by example_  
 
 [[view]](https://arxiv.org/abs/2012.07938) 2020. Hennigh. _NVIDIA SimNet: an AI-accelerated multi-physics simulation framework_ [[NVIDIA Modulus]](https://developer.nvidia.com/modulus) 
  
-[[view]](https://aiindex.stanford.edu/) Stanford University. AI Index Report  
-
 **_What are Surrogate Models ?_**  
 
 [[view]](https://link.springer.com/book/10.1007/978-981-15-0731-1) 2020. Jiang. _Surrogate Model-Based Engineering Design and Optimization_  
