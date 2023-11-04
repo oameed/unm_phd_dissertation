@@ -1,9 +1,11 @@
 # AI Assisted Workflows
 
-* This is the official repository for the following PhD Dissertation:  
+* This is the official repository for the following PhD Dissertation:
+  
   [[view]]() 2023. Noakoasteen. _AI Assisted Workflows for Computational EM and Antenna Design_ [[manuscript]]()  
 
-* This research is published in the following journal papers:  
+* This research is published in the following journal papers:
+  
   [[view]](https://ieeexplore.ieee.org/document/9763831) 2022. Noakoasteen. _Antenna Design using a GAN-based Synthetic Data Generation Approach_ [[GitLab]](https://gitlab.com/oameed/unm_rfant_dloptant)  
   [[view]](https://ieeexplore.ieee.org/document/9158400) 2020. Noakoasteen. _Physics-Informed Deep Neural Networks for Transient Electromagnetic Analysis_ [[GitLab]](https://gitlab.com/oameed/unm_cem_dlfdtd)  
 
@@ -69,7 +71,9 @@
 [[view]](https://www.osti.gov/biblio/1478744-workshop-report-basic-research-needs-scientific-machine-learning-core-technologies-artificial-intelligence) 2019. DOE. _Basic Research Needs for Scientific ML: Core Technologies for AI_   
 [[view]](https://royalsociety.org/topics-policy/projects/machine-learning/) 2017. RS. _Machine Learning: the power and promise of computers that learn by example_  
 
-[[view]](https://arxiv.org/abs/2012.07938) 2020. Hennigh. _NVIDIA SimNet: an AI-accelerated multi-physics simulation framework_ [[NVIDIA Modulus]](https://developer.nvidia.com/modulus)  
+[[view]](https://arxiv.org/abs/2012.07938) 2020. Hennigh. _NVIDIA SimNet: an AI-accelerated multi-physics simulation framework_ [[NVIDIA Modulus]](https://developer.nvidia.com/modulus) 
+ 
+[[view]](https://aiindex.stanford.edu/) Stanford University. AI Index Report  
 
 **_What are Surrogate Models ?_**  
 
