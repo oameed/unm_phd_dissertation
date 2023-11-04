@@ -1,5 +1,14 @@
 # AI Assisted Workflows
 
+* This is the official repository for the following PhD Dissertation:  
+  [[view]]() 2023. Noakoasteen. _AI Assisted Workflows for Computational EM and Antenna Design_ [[manuscript]]()  
+
+* This research is published in the following journal papers:  
+  [[view]](https://ieeexplore.ieee.org/document/9763831) 2022. Noakoasteen. _Antenna Design using a GAN-based Synthetic Data Generation Approach_ [[GitLab]](https://gitlab.com/oameed/unm_rfant_dloptant)  
+  [[view]](https://ieeexplore.ieee.org/document/9158400) 2020. Noakoasteen. _Physics-Informed Deep Neural Networks for Transient Electromagnetic Analysis_ [[GitLab]](https://gitlab.com/oameed/unm_cem_dlfdtd)  
+
+
+
 ## Similar/Inspirational Works 
 
 [[view]](https://arxiv.org/abs/2002.08981) 2020. Fotiadis. _Comparing RNNs and CNNs for predicting wave propagation_ [[GitHub]](https://github.com/stathius/wave_propagation)  
