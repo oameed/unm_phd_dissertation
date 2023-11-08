@@ -24,6 +24,7 @@
 
 ## Insightful Works from CV/NLP
 
+[[view]](https://arxiv.org/abs/2004.05214) 2020. Oprea. _A Review on Deep Learning Techniques for Video Prediction_  
 [[view]](https://arxiv.org/abs/1609.02612) 2016. Vondrick. _Generating videos with scene dynamics_  
 [[view]](https://arxiv.org/abs/1608.07724) 2016. Zhou. _Learning Temporal Transformations From Time-Lapse Videos_  
 [[view]](https://arxiv.org/abs/1511.06309) 2015. Patraucean. _Spatio-temporal video autoencoder with differentiable memory_  
