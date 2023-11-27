@@ -49,6 +49,7 @@
 
 **_Use of ANNs as Optimization Tools ?! : The PINNs_**
 
+[[view]]() 2023. Zhou. _PINNs for solving time-dependent mode-resolved phonon Boltzmann transport equation_  
 [[view]](https://link.springer.com/article/10.1007/s10409-021-01148-1) 2022. Cai. _PINNs for fluid mechanics A review_  
 [[view]](https://arxiv.org/abs/2109.05237) 2021. Thuerey. _Physics-based Deep Learning_  
 [[view]](https://www.nature.com/articles/s42254-021-00314-5) 2021. Karniadakis. _Physics informed machine learning_  
