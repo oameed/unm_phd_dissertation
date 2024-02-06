@@ -6,7 +6,7 @@
 
 * This research is published in the following journal papers:
 
-  [[view]]() 2024. Noakoasteen. _Physics-Informed Surrogates forEM Dynamics using Transformers and GNNs_ [[GitHub]](https://github.com/oameed/unm_cem_trnsf_gnn_fdtd)  
+  [[view]]() 2024. Noakoasteen. _Physics-Informed Surrogates for EM Dynamics using Transformers and GNNs_ [[GitHub]](https://github.com/oameed/unm_cem_trnsf_gnn_fdtd)  
   [[view]](https://ieeexplore.ieee.org/document/9763831) 2022. Noakoasteen. _Antenna Design using a GAN-based Synthetic Data Generation Approach_ [[GitLab]](https://gitlab.com/oameed/unm_rfant_dloptant)  
   [[view]](https://ieeexplore.ieee.org/document/9158400) 2020. Noakoasteen. _Physics-Informed Deep Neural Networks for Transient Electromagnetic Analysis_ [[GitLab]](https://gitlab.com/oameed/unm_cem_dlfdtd)  
 
