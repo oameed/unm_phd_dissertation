@@ -13,7 +13,12 @@
 
 ## Similar/Inspirational Works 
 
+[[view]](https://arxiv.org/abs/2212.12794) 2022. Lam. _GraphCast: Learning skillful medium-range global weather forecasting_  
+[[view]](https://arxiv.org/abs/2201.09113) 2022. Han. _Predicting Physics in Mesh-reduced Space with Temporal Attention_  
+[[view]](https://arxiv.org/abs/2010.03409) 2020. Pfaff. _Learning Mesh-Based Simulation with Graph Networks_ [[GitHub]](https://github.com/deepmind/deepmind-research/tree/master/meshgraphnets) [[blog]](https://sites.google.com/view/meshgraphnets)  
+[[view]](https://arxiv.org/abs/2002.09405) 2020. Sanchez-Gonzalez. _Learning to Simulate Complex Physics with Graph Networks_ [[GitHub]](https://github.com/deepmind/deepmind-research/tree/master/learning_to_simulate) [[blog]](https://sites.google.com/view/learning-to-simulate)  
 [[view]](https://arxiv.org/abs/2002.08981) 2020. Fotiadis. _Comparing RNNs and CNNs for predicting wave propagation_ [[GitHub]](https://github.com/stathius/wave_propagation)  
+[[view]](https://arxiv.org/abs/2001.08317) 2020. Wu. Green. Ben. _Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case_  
 [[view]](https://arc.aiaa.org/doi/10.2514/6.2020-2261) 2020. Achour. _Development of a Conditional GAN for Airfoil Shape Optimization_  
 [[view]](https://arxiv.org/abs/1903.00033) 2019. Mohan. _Compressed Convolutional LSTM_  
 [[view]](https://arxiv.org/abs/1812.01609) 2018. Sorteberg. _Approximating the solution to wave propagation using DNNs_  
