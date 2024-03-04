@@ -47,6 +47,7 @@
 
 ## Other Approaches
 
+[[view]](https://arxiv.org/abs/2402.16845) 2024. Liu-Schiaffini. _Neural Operators with Localized Integral and Differential Kernels_  
 [[view]](https://medium.com/pytorch/exploring-scientific-machine-learning-pipelines-through-the-simulai-toolkit-9fda42d6c6a0) 2024. Almeida. _Exploring scientific machine learning pipelines through the SimulAI toolkit_  
 [[view]](https://polymathic-ai.org/blog/mpp/) 2023. McCabe. _Multiple Physics Pretraining for Physical Surrogate Models_ [[paper]](https://arxiv.org/abs/2310.02994) [[GitHub]](https://github.com/PolymathicAI/multiple_physics_pretraining)  
 [[view]](https://arxiv.org/abs/2302.11002) 2023. Hansen. _Learning Physical Models that Can Respect Conservation Laws_  
