@@ -14,6 +14,7 @@
 
 ## Similar/Inspirational Works 
 
+[[view]](https://arxiv.org/abs/2403.03929) 2024. Meo. _Extreme Precipitation Nowcasting using Transformer-based Generative Models_  
 [[view]](https://arxiv.org/abs/2212.12794) 2022. Lam. _GraphCast: Learning skillful medium-range global weather forecasting_  
 [[view]](https://arxiv.org/abs/2201.09113) 2022. Han. _Predicting Physics in Mesh-reduced Space with Temporal Attention_  
 [[view]](https://arxiv.org/abs/2010.03409) 2020. Pfaff. _Learning Mesh-Based Simulation with Graph Networks_ [[GitHub]](https://github.com/deepmind/deepmind-research/tree/master/meshgraphnets) [[blog]](https://sites.google.com/view/meshgraphnets)  
