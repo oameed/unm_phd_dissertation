@@ -53,8 +53,8 @@
 [[view]](https://polymathic-ai.org/blog/mpp/) 2023. McCabe. _Multiple Physics Pretraining for Physical Surrogate Models_ [[paper]](https://arxiv.org/abs/2310.02994) [[GitHub]](https://github.com/PolymathicAI/multiple_physics_pretraining)  
 [[view]](https://arxiv.org/abs/2302.11002) 2023. Hansen. _Learning Physical Models that Can Respect Conservation Laws_  
 [[view]](https://arxiv.org/abs/2202.11214) 2022. Pathak. _FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive FNOs_ [[GitHub]](https://github.com/NVlabs/FourCastNet)  
-[[view]](https://arxiv.org/abs/2010.08895) 2020. Li. _Fourier Neural Operator for Parametric PDEs_  
-[[view]](https://arxiv.org/abs/2003.03485) 2020. Li. _Neural Operator: Graph Kernel Network for PDEs_  
+[[view]](https://arxiv.org/abs/2010.08895) 2020. Li. _Fourier Neural Operator for Parametric PDEs_ [[blog]](https://zongyi-li.github.io/blog/2020/fourier-pde/)  
+[[view]](https://arxiv.org/abs/2003.03485) 2020. Li. _Neural Operator: Graph Kernel Network for PDEs_ [[blog]](https://zongyi-li.github.io/blog/2020/graph-pde/)  
 
 **_Use of ANNs as Optimization Tools ?! : The PINNs_**
 
