@@ -14,6 +14,7 @@
 
 ## Similar/Inspirational Works 
 
+[[view]](https://arxiv.org/abs/2403.07815) 2024. Ansari. _Chronos: Learning the Language of Time Series_  
 [[view]](https://arxiv.org/abs/2403.03929) 2024. Meo. _Extreme Precipitation Nowcasting using Transformer-based Generative Models_  
 [[view]](https://arxiv.org/abs/2212.12794) 2022. Lam. _GraphCast: Learning skillful medium-range global weather forecasting_  
 [[view]](https://arxiv.org/abs/2201.09113) 2022. Han. _Predicting Physics in Mesh-reduced Space with Temporal Attention_  
