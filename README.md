@@ -2,7 +2,7 @@
 
 * This is the official repository for the following PhD Dissertation:
   
-  [[view]](https://digitalrepository.unm.edu/ece_etds/628/) 2023. Noakoasteen. _AI Assisted Workflows for Computational EM and Antenna Design_ [[presentation]])(https://archive.org/details/phd-defense-presentation)  
+  [[view]](https://digitalrepository.unm.edu/ece_etds/628/) 2023. Noakoasteen. _AI Assisted Workflows for Computational EM and Antenna Design_ [[presentation]](https://archive.org/details/phd-defense-presentation)  
 
 * This research is published in the following journal papers:
 
