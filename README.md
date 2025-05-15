@@ -28,7 +28,7 @@
 [[view]](https://ieeexplore.ieee.org/document/8608745) 2018. Yao. _ML Based ANN Solving Methods for the FDTD Method_  
 [[view]](https://arxiv.org/abs/1705.09036) 2017. Hennigh. _Lat-Net: Compressing Lattice Boltzmann Flow Simulations using DNNs_ [[GitHub]](https://github.com/loliverhennigh/Phy-Net)  
 [[view]](https://arxiv.org/abs/1703.00247) 2017. Ehrhardt. _Learning A Physical Long-term Predictor_  
-[[view]](https://arxiv.org/abs/1607.03597) 2016. Tompson. _Accelerating Eulerian Fluid Simulation With CNNs_ [[official]](https://cims.nyu.edu/~schlacht/CNNFluids.htm)  
+[[view]](https://arxiv.org/abs/1607.03597) 2016. Tompson. _Accelerating Eulerian Fluid Simulation With CNNs_ [[YouTube]](https://www.youtube.com/watch?v=w71zxkniJfo)  
 
 ## Insightful Works from CV/NLP
 
