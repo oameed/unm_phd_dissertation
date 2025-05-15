@@ -86,7 +86,7 @@
 [[view]](https://royalsociety.org/topics-policy/projects/machine-learning/) 2017. RS. _Machine Learning: the power and promise of computers that learn by example_  
 
 [[view]](https://www.arxiv.org/abs/2407.07218) 2024. McGreivy. _Weak baselines and reporting biases lead to overoptimism in ML for fluid-related PDEs_  
-[[view]](https://arxiv.org/abs/2012.07938) 2020. Hennigh. _NVIDIA SimNet: an AI-accelerated multi-physics simulation framework_ [[NVIDIA Modulus]](https://developer.nvidia.com/modulus) 
+[[view]](https://arxiv.org/abs/2012.07938) 2020. Hennigh. _NVIDIA SimNet: an AI-accelerated multi-physics simulation framework_ [[NVIDIA PhysicsNeMo]](https://developer.nvidia.com/modulus) 
  
 **_What are Surrogate Models ?_**  
 
